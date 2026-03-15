@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_lifesteal_smp.aternos.me",
-    "port": 19122,
+    "ip": "RedpoolCivilization.aternos.me",
+    "port": 14747,
     "version": "1.21.11"
   },
   "position": {
@@ -31,7 +31,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to Redpool!",
         "I like to play Minecraft!"
       ]
     },
